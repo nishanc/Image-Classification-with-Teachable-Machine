@@ -1,0 +1,29 @@
+{
+  "name": "audio-visualization",
+  "version": "1.0.0",
+  "description": "Visulaizing audio with p5.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishanc/audio-visualization.git"
+  },
+  "keywords": [
+    "p5.js",
+    "node",
+    "express",
+    "audio",
+    "visualization"
+  ],
+  "author": "Nishan Chathuranga Wickramarathna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nishanc/audio-visualization/issues"
+  },
+  "homepage": "https://github.com/nishanc/audio-visualization#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
